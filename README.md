@@ -7,7 +7,7 @@ back/front-end dev part time app maker
 i have started my 10th grade and very keen on making IT my careear and i am have alredy started making some project in python and am very interested in learing more by making project and contrubuting to opensoucr
 
 * 🌍  I'm based in online
-* 🚀  I'm currently working on [private assisstint](http://https://github.com/shviam-2018/Eva)
+* 🚀  I'm currently working on [private assistant Eva](https://github.com/shviam-2018/eva.git)
 * 🧠  I'm learning javascript
 * 🤝  I'm open to collaborating on back-end
 * ⚡  i watch anime and play tennis
