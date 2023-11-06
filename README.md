@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Eva](https://github.com/shviam-2018/eva)
+- 🔭 I’m currently working on [Thea](https://github.com/shviam-2018/thea/tree/main)
 
 - 🌱 I’m currently learning **node.js, flutter,dart,mangoDB,docker,django**
 
