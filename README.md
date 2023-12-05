@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Thea](https://github.com/shviam-2018/thea/tree/main)
 
-- 🌱 I’m currently learning **node.js, flutter,dart,mangoDB,docker,django**
+- 🌱 I’m currently learning **node.js, docker, C**
 
 - 🤝 I’m looking for help with [Eva](https://github.com/shviam-2018/eva)
 
