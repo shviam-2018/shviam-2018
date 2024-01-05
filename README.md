@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my C portfolio](https://github.com/shviam-2018/my-c-portfolio)
 
-- 🌱 I’m currently learning **C and HTML&CSS(advance level)**
+- 🌱 I’m currently learning **C and c++**
 
-- 👯 I’m looking to collaborate on [EVA](https://github.com/shviam-2018/eva)
+- 👯 I’m looking to collaborate on [Thea] (https://github.com/shviam-2018/Thea)
 
-- 🤝 I’m looking for help with [EVA](https://github.com/shviam-2018/eva)
+- 🤝 I’m looking for help with [Thea] (https://github.com/shviam-2018/Thea)
 
 - 👨‍💻 All of my projects are available at [https://nightdev4l.web.app/](https://nightdev4l.web.app/)
 
