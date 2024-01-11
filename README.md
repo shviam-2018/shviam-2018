@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C and c++**
 
-- 👯 I’m looking to collaborate on [Thea] (https://github.com/shviam-2018/Thea)
+- 👯 I’m looking to collaborate on [Thea](https://github.com/shviam-2018/Thea)
 
-- 🤝 I’m looking for help with [Thea] (https://github.com/shviam-2018/Thea)
+- 🤝 I’m looking for help with [Thea](https://github.com/shviam-2018/Thea)
 
 - 👨‍💻 All of my projects are available at [https://nightdev4l.web.app/](https://nightdev4l.web.app/)
 
