@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/nightdev](https://dev.to/nightdev)
 
-- 💬 Ask me about **python3 web dev and C**
+- 💬 Ask me about **python3 web dev and C++**
 
 - 📫 How to reach me **coder.develooper@gmail.com**
 
