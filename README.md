@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nightdev4l</h1>
 <h3 align="center">a tenn who is fasanatied by coding and development</h3>
 
-- 🔭 I’m currently working on [my C portfolio](https://github.com/shviam-2018/my-c-portfolio)
+- 🔭 I’m currently working on [Vera](https://github.com/shviam-2018/Vera/tree/devlopment)
 
 - 🌱 I’m currently learning **C and c++**
 
-- 👯 I’m looking to collaborate on [Thea](https://github.com/shviam-2018/Thea)
+- 👯 I’m looking to collaborate on [Vera](https://github.com/shviam-2018/Vera/tree/devlopment)
 
-- 🤝 I’m looking for help with [Thea](https://github.com/shviam-2018/Thea)
+- 🤝 I’m looking for help with [Vera](https://github.com/shviam-2018/Vera/tree/devlopment)
 
 - 👨‍💻 All of my projects are available at [https://nightdev4l.web.app/](https://nightdev4l.web.app/)
 
