@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C, c++ and java**
 
-- 👯 I’m looking to collaborate on [Ella](https://github.com/shviam-2018/ella/tree/devlopment)
+- 👯 I’m looking to collaborate on [Ella](https://github.com/shviam-2018/Ella)
 
-- 🤝 I’m looking for help with [Ella](https://github.com/shviam-2018/ella/tree/devlopment))
+- 🤝 I’m looking for help with [Ella](https://github.com/shviam-2018/Ella)
 
 - 👨‍💻 All of my projects are available at [https://nightdev4l.web.app/](https://nightdev4l.web.app/)
 
