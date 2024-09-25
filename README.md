@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nightdev4l</h1>
 <h3 align="center">a tenn who is fasanatied by coding and development</h3>
 
-- 🔭 I’m currently working on school exams
-
 - 🌱 I’m currently learning **C, c++ and java**
 
-- 👯 I’m looking to collaborate on [Ella](https://github.com/shviam-2018/Ella)
-
-- 🤝 I’m looking for help with [Ella](https://github.com/shviam-2018/Ella)
-
-- 👨‍💻 All of my projects are available at [https://nightdev4l.web.app/](https://nightdev4l.web.app/)
-
-- 📝 I regularly write articles on [https://dev.to/nightdev](https://dev.to/nightdev)
+- 👨‍💻 All of my projects are available at [https://nightdev4l.me/](https://nightdev4l.me/)
 
 - 💬 Ask me about **python3 web dev and C++**
 
-- 📫 How to reach me **coder.develooper@gmail.com**
+- 📫 How to reach me **aaron.lac@nightdev4l.me**
 
 - 📄 Know about my experiences [https://github.com/shviam-2018?tab=repositories](https://github.com/shviam-2018?tab=repositories)
 
